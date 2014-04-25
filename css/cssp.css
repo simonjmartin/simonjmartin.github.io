@@ -1,0 +1,35 @@
+body{background-color:#000;color:#fc9;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:0.9em;width:750px;}
+#sidebar{float:left;margin-left:15px;margin-top:1em;width:130px;}
+h1{color:#f63;font-size:1.2em;}
+h2{color:#f63;font-size:1em;}
+h3{font-size:0.9em;font-weight:700;}
+a:link,a:visited{color:#fff;font-weight:700;text-decoration:none;}
+a:hover,a:active{color:#f63;text-decoration:none;}
+caption{border-bottom-color:#f63;border-bottom-style:solid;border-bottom-width:1px;color:#f63;font-size:1.1em;font-weight:700;text-align:left;}
+fieldset{border:solid 1px;padding:10px;width:95%;}
+label{clear:both;float:left;font-weight:700;margin:0 1em 10px 0;text-align:right;width:6em;}
+#header{background:url(../images/logo.jpg) no-repeat 2px 7px;height:150px;padding-bottom:10px;width:790px;}
+#content{line-height:1.5em;margin-left:155px;padding-bottom:10px;text-align:justify;width:570px;}
+#footer{border-top:1px solid #F63;margin-left:155px;padding-bottom:10px;padding-top:5px;width:570px;}
+#nav{border-bottom:1px;border-bottom-color:#f63;border-bottom-style:solid;border-top:1px;border-top-color:#f63;border-top-style:solid;font-family:Geneva, Arial, Helvetica, sans-serif;font-size:12px;left:165px;list-style-type:none;padding:5px 0;position:absolute;text-align:center;top:103px;width:570px;}
+#nav li{border-right:1px solid #F63;display:inline;padding:0 9px 0 5px;text-decoration:none;}
+#nav li.nospacer{border-right:0 none;}
+img#banner{left:165px;position:absolute;top:20px;}
+dd{margin:0;padding:0;}
+.footerText{font-size:0.7em;}
+.anchorText{text-align:right;}
+.featureImgRight{float:right;padding:0 0 10px 10px;}
+.featureImgLeft{float:left;padding:0 10px 10px 0;}
+.boldText{font-weight:700;}
+.dojoName{color:#f63;font-size:1em;font-weight:700;}
+.input-box{border:#26a solid 1px;float:left;margin-bottom:5px;width:200px;}
+.textarea{float:left;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:0.9em;height:100px;margin-bottom:5px;width:400px;}
+.submit-button{border:2px #9cf outset;clear:both;float:left;margin-left:7em;}
+.dateAdded{font-size:0.7em;font-style:italic;}
+.btnSubmit{clear:both;float:left;margin-left:8em;}
+.vevent{padding-bottom:1.5em;}
+.non-html{background:url(../images/new_window.gif) no-repeat right center;padding-right:20px;}
+#countries{list-style:url(none) none;text-align:center;}
+#countries li{clear:right;display:inline;float:left;height:95px;margin-right:10px;width:95px;}
+#countries p{margin-top:0;}
+.summary,.location,.dtstart,.cleared{clear:both;}
