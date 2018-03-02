@@ -97,6 +97,7 @@ header a:active,
 header a.active {
     outline: 0;
     color: #fff;
+    font-weight: 700;
 }
 
 header img {
