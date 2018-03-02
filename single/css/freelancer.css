@@ -90,6 +90,15 @@ header .container {
     padding-bottom: 50px;
 }
 
+header a,
+header a:hover,
+header a:focus,
+header a:active,
+header a.active {
+    outline: 0;
+    color: #2c3e50;
+}
+
 header img {
     display: block;
     margin: 0 auto 20px;
