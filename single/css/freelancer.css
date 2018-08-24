@@ -191,18 +191,19 @@ section h2 {
     font-size: 3em;
 }
 
-section.success {
+section.genbukan {
     color: #fff;
     background: #436280;
 }
 
-section.success a,
-section.success a:hover,
-section.success a:focus,
-section.success a:active,
-section.success a.active {
+section.genbukan a,
+section.genbukan a:hover,
+section.genbukan a:focus,
+section.genbukan a:active,
+section.genbukan a.active {
     outline: 0;
-    color: #2c3e50;
+    color: #fff;
+    text-decoration: underline;
 }
 
 @media(max-width:767px) {
@@ -348,9 +349,21 @@ footer {
     color: #fff;
 }
 
+footer a,
+footer a:hover,
+footer a:focus,
+footer a:active,
+footer a.active {
+    outline: 0;
+    color: #fff;
+    text-decoration: underline;
+}
+
 footer h3 {
     margin-bottom: 30px;
 }
+
+footer ul { text-align: left;}
 
 footer .footer-above {
     padding-top: 50px;
